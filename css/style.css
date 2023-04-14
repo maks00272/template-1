@@ -772,4 +772,18 @@ padding-left: 47px;
     background: #0E1D28;
     padding: 119px 0;
   }
+  .footer__item{
+    display:flex ;
+    flex-wrap: wrap;
+    
+  }
+  .footer__logo{
+    width: 50%;
+  }
+  .footer__nav{
+    width: 50%;
+  }
+
+  
+
   /*footer style end*/
