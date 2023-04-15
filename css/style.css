@@ -782,7 +782,23 @@ padding-left: 47px;
   }
   .footer__nav{
     width: 50%;
+    display: flex;
+    flex-wrap: wrap;
   }
+.footer__menu-link{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.footer__menu-item{
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
 
   
 

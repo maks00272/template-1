@@ -7,4 +7,5 @@
             header.classList.remove('header__active');
         }
     };
+    
 }());
